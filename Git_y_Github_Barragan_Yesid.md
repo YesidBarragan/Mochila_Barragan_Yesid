@@ -13,13 +13,13 @@ Actualmente GitHub pertenece a Microsoft, el 4 de junio de 2018 fue comprado por
 Además de la terminal, existen diferentes opciones que ofrecen una interfaz gráfica, lo que facilita el uso de Git y Github.
 
 [Tower](https://www.git-tower.com/)
-![Tower Git Webpage](img%5CClase4%5Cgit-tower.png)
+![Tower Git Webpage](/img/Clase4/git-tower.png)
 
 [Fork](https://git-fork.com/)
-![Fork Git UI](img%5CClase4%5Cgit-fork.png)
+![Fork Git UI](/img/Clase4/git-fork.png)
 
 [GitHub Desktop](https://desktop.github.com/)
-![GitHub Desktop UI](img%5CClase4%5Cgithub-desktop.png)
+![GitHub Desktop UI](/img/Clase4/github-desktop.png)
 
 [Visual Studio Code](https://code.visualstudio.com/)
-![Visual Studio Code UI](img%5CClase4%5Cgit-vsc.webp)
+![Visual Studio Code UI](/img/Clase4/git-vsc.webp)
