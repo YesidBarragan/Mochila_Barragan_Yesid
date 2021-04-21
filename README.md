@@ -18,4 +18,4 @@
 
 * Clase 10:
   * Actividad_N°1_Practicas_Lenguajes_Barragan_Yesid.png
-  * Actividad_N°1_Practicas_Lenguajes_Barragan_Yesid.png
+  * Actividad_N°2_Practicas_Lenguajes_Barragan_Yesid.png
