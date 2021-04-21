@@ -15,3 +15,7 @@
 * Clase 8:
   * Juego_Comunicacion_Procesos_Grupo4_Barragan_Yesid.xlsx
   * Ejercicio_Algoritmos_Planificación_Barragan_Yesid.xlsx
+
+* Clase 10:
+  * Actividad_N°1_Practicas_Lenguajes_Barragan_Yesid.png
+  * Actividad_N°1_Practicas_Lenguajes_Barragan_Yesid.png
