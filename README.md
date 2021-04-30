@@ -23,3 +23,5 @@
 * Clase 11: Clasificación_Contenedores_Mas_Utilizados_Grupo10_Barragan_Yesid.pdf
 
 * Clase 12: Redes_Barragan_Yesid.jpg
+
+* Clase 13: Clasificacion_Protocolos_Barragan_Yesid.png
