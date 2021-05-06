@@ -25,3 +25,5 @@
 * Clase 12: Redes_Barragan_Yesid.jpg
 
 * Clase 13: Clasificacion_Protocolos_Barragan_Yesid.png
+
+* Clase 14: Puertos_Barragan_Yesid.png
