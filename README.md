@@ -56,3 +56,5 @@
   * Resumen_Clase15_AmenazasInformaticas_Barragan_Yesid.pdf
 
 * Clase 17: Resumen_Clase17_SeguridadInformatica_Barragan_Yesid.pdf
+
+* Clase 18: Resumen_Clase18_EticaInformatica_Barragan_Yesid.pdf
